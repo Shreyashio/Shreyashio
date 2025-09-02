@@ -14,9 +14,9 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:shreyashraut7@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rshreyash784@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" />
+</a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/shreyash_raut_____" target="blank">

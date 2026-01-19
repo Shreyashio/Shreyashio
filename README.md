@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Raut</h1>
-<h2>Web Developer 🌐 exploring the future with AI 🤖 & Machine Learning.</h2>
+<h2>Web Developer 🌐 exploring Web3, AI 🤖 & Machine Learning</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
